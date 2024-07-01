@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋 I'm Snehita Moturu, a passionate Data Analytics Engineer from Fairfax, VA.</h1>
 <h3 align="center">I thrive on unraveling complex datasets and transforming them into actionable insights that drive business decisions. With a strong foundation in data analysis and a meticulous approach, I excel in: 
 
- 🔍 Exploring and analyzing data to uncover meaningful patterns and trends.
+ 🔍 Exploring and analyzing data to uncover meaningful patterns and trends.<br/>
  📊 Creating insightful visualizations to communicate findings effectively.
  📉 Building predictive models to forecast business outcomes with accuracy.
  👩🏽‍💻 Implementing data-driven strategies to optimize processes and enhance performance.
