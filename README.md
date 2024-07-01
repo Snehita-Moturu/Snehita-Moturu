@@ -2,11 +2,11 @@
 <h3 align="center">I thrive on unraveling complex datasets and transforming them into actionable insights that drive business decisions. With a strong foundation in data analysis and a meticulous approach, I excel in: 
 
  🔍 Exploring and analyzing data to uncover meaningful patterns and trends.<br/>
- 📊 Creating insightful visualizations to communicate findings effectively.
- 📉 Building predictive models to forecast business outcomes with accuracy.
- 👩🏽‍💻 Implementing data-driven strategies to optimize processes and enhance performance.
- 🔍 Conducting thorough data quality assessments to ensure accuracy and reliability.
- 📈 Monitoring data integrity and maintaining high standards of data hygiene.
+ 📊 Creating insightful visualizations to communicate findings effectively.<br/>
+ 📉 Building predictive models to forecast business outcomes with accuracy.<br/>
+ 👩🏽‍💻 Implementing data-driven strategies to optimize processes and enhance performance.<br/>
+ 🔍 Conducting thorough data quality assessments to ensure accuracy and reliability.<br/>
+ 📈 Monitoring data integrity and maintaining high standards of data hygiene.<br/>
  📃 Presenting actionable insights to stakeholders in clear and compelling ways.</h3>
 
 
