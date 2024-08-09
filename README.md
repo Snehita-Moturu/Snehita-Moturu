@@ -14,17 +14,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehita-moturu&label=Profile%20views&color=0e75b6&style=flat" alt="snehita-moturu" /> </p>
 
-- 🔭 I’m currently working on **Sales Performance Dashboard: Developing an interactive Tableau dashboard to analyze and visualize sales performance metrics. Customer Churn Analysis: Using Python and machine learning to predict customer churn and recommend retention strategies.**
+- 🔭 I’m currently working on **Demographic Insights Dashboard: developing an interactive Tableau dashboard to analyze and visualize staff demographic metrics, conducting analysis of 31 staff members to enhance targeted interventions, collecting and analyzing resource data from 22 Virginia counties to create a comprehensive database for website integration, and managing project tasks using Asana to achieve 100% on-time completion while contributing to grant approvals and service improvements to boost organizational impact by 30%.**
 
-- 🌱 I’m currently learning **Advanced Tableau Techniques - Machine Learning with Scikit-learn - Business Process Management**
+- 👯 I’m looking to collaborate on **Business Analytics: A project focusing on analyzing trends and customer preferences using SQL and R. Business Process Optimization: Streamlining business processes using data-driven insights and automation tools.**
 
-- 👯 I’m looking to collaborate on **Market Research Analytics: A project focusing on analyzing market trends and customer preferences using SQL and R. Business Process Optimization: Streamlining business processes using data-driven insights and automation tools.**
-
-- 🤝 I’m looking for help with **Data Visualization Techniques: Enhancing my skills in advanced data visualization tools and techniques. Predictive Analytics Models: Developing and fine-tuning predictive models for various business applications.**
+- 🤝 I’m looking for help with **Data Visualization Techniques: Enhancing my skills in advanced data visualization tools and techniques.**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/snehita-moturu](https://www.linkedin.com/in/snehita-moturu)
 
-- 📝 I regularly write articles on [yourquote.in/snehita_moturu](yourquote.in/snehita_moturu)
 
 - 💬 Ask me about **- Data Analytics - Business Analysis - Tableau and Power BI - Statistical Analysis**
 
