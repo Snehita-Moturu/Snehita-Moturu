@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Snehita Moturu, a passionate Data Analytics Engineer, discovering insights and driving decisions 🚀.</h1>
+<h1 align="center">Hi there! 👋 I'm Snehita Moturu, a passionate Business data Analyst, discovering insights and driving decisions 🚀.</h1>
 <h3 align="center">I thrive on unraveling complex datasets and transforming them into actionable insights that drive business decisions. With a strong foundation in data analysis and a meticulous approach, I excel in: 
 
 <p > </p>
