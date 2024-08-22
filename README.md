@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Business Analytics: A project focusing on analyzing trends and customer preferences using SQL and R. Business Process Optimization: Streamlining business processes using data-driven insights and automation tools.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/snehita-moturu](https://github.com/Snehita-Moturu?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Snehita-Moturu?tab=repositories](https://github.com/Snehita-Moturu?tab=repositories)
 
 
 - 💬 Ask me about **- Data Analytics - Business Analysis - Tableau and Power BI - Statistical Analysis**
